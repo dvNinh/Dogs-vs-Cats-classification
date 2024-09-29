@@ -1,5 +1,5 @@
 # Dogs and Cats classifications using CNN
-### Dataset:
+### Dataset
 The training dataset consists of 25000 pictures of dogs and cats. \
 Purpose: label the images in the test1.zip dataset (12500 images). \
 Data source: https://www.kaggle.com/c/dogs-vs-cats
